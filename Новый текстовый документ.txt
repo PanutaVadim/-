@@ -1,0 +1,9 @@
+Добрый день! При проверке кода HTML вы наверное заметили такие артефакты, где ломается русские буквы и кириллица
+<title>–ö—Ä–æ—Å—Å—ã –∏ —Ç–æ—á–∫–∞</title> - и так происходит на протяжении всего кода при загрузке его на Практикум
+Скачайте пожалуйста нормальную версию с гугл диска))))
+https://drive.google.com/drive/folders/1JndHoxBTdIHwrIsG9twYEzZNAsvxnSj3?usp=drive_link
+
+Good afternoon! When checking the HTML code, you probably noticed such artifacts where Russian letters and Cyrillic letters break
+<title>–ö—Ä–æ—Å—Å—ü–∏—Ç–æ—á–∫–∞</title> - and this happens throughout the code when uploading it to the Workshop
+Please download the normal version from Google drive))))
+https://drive.google.com/drive/folders/1JndHoxBTdIHwrIsG9twYEzZNAsvxnSj3?usp=drive_link
